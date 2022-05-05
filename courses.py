@@ -1,2 +1,2 @@
-name='kalyan shakthidhar madhavi'
+name='kalyan'
 print(name)
